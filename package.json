@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "extracted for blueprints and addons",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "mocha test"
   },
